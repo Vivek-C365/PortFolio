@@ -33,7 +33,7 @@ export default function Nav() {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <NavLink className="nav-link"  onClick={btn}   aria-current="page" to="/">
+                <NavLink className="nav-link"  onClick={btn}   aria-current="page" to="/Portfolio">
                   Home
                 </NavLink>
               </li>
