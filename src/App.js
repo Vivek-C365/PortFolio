@@ -24,7 +24,7 @@ function App() {
     
     <Routes>
     <Route path = '*' element={<Error/>}/>
-    <Route path = '/' element={<Contentprofile/>}/>
+    <Route path = '/Portfolio' element={<Contentprofile/>}/>
     <Route path = '/Work' element={<ProjectWork/>}/>
     <Route path = '/Education' element={<Education/>}/>
     <Route path = '/Experience' element={<Experience/>}/>
