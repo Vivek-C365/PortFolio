@@ -1,7 +1,7 @@
 :root{
     --bs-darkblack:#0B0C10 ;
     --bs-darkgray:#1F2833 ;
-    --bs-lightgray:#C5C6C7 ;
+    --bs-lightgray:#edfbff ;
     --bs-brightsky:#66FCF1 ;
     --bs-darksky:#45A29E ;
     --bs-bluesdark : #231c4e;
@@ -15,14 +15,14 @@
 }
 
 .navbar{
-    background-color: #121212  !important;
-    border-bottom: 5px solid #45a29e;
+    background-color: #121619  !important;
+    border-bottom: 5px solid #00cac7;
     position: fixed;
     z-index: 1;
     width: 100%;
 }
 .nav-link{
-    color: #5dd0cb !important;
+    color: #00cac7 !important;
     font-weight: 500 !important;
 }
 .first_section{

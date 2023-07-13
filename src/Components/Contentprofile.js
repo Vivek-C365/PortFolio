@@ -24,6 +24,7 @@ export default function Contentprofile() {
                   <span id="typewriter">
                     <Typed
                       strings={[
+                        "UI / UX Designer",
                         "Full Stack Developer",
                         "Web Designing",
                         "Web Development",
