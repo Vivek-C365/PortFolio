@@ -42,7 +42,7 @@ export default function About() {
             <section className="simple_detail">
               <div className="detail_inner">
                 <span className="about_span">
-                  Ages: <h5 className="deatil_text">23</h5>
+                  Ages: <h5 className="deatil_text">24</h5>
                 </span>
                 <span className="about_span">
                   Email: <h5 className="deatil_text">vivek.choudhary.0022@gmail.com</h5>

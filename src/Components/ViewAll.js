@@ -55,14 +55,14 @@ export default function ViewAll(props) {
                 <h1>Sidhu Moose Wala Website</h1>
                 <p> SIDHU MOOSE WALA MUSIC TRACKS WEBSITE</p>
 
-                <a href="https://5911.online/">
+                <a href="https://5911.netlify.app/">
                   <button className="view_btn_project">View</button>
                 </a>
               </div>
             </div>
           </div>
         </div>
-        <div className="project_forth project_card">
+        {/* <div className="project_forth project_card">
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
@@ -79,7 +79,7 @@ export default function ViewAll(props) {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="project_fifth project_card">
           <div className="flip-card">
             <div className="flip-card-inner">
@@ -96,7 +96,23 @@ export default function ViewAll(props) {
             </div>
           </div>
         </div>
-        <div className="project_sixth project_card">
+        <div className="project_fifth project_card">
+          <div className="flip-card">
+            <div className="flip-card-inner">
+              <div className="flip-card-front">
+                <div className="project_img_viewall project9"></div>
+              </div>
+              <div className="flip-card-back">
+                <h1>Chat Bot</h1>
+
+                <a href="https://quirkle.online/">
+                  <button className="view_btn_project">View</button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* <div className="project_sixth project_card">
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
@@ -113,8 +129,8 @@ export default function ViewAll(props) {
               </div>
             </div>
           </div>
-        </div>
-        <div className="project_seven project_card">
+        </div> */}
+        {/* <div className="project_seven project_card">
           <div className="flip-card">
             <div className="flip-card-inner">
               <div className="flip-card-front">
@@ -131,7 +147,7 @@ export default function ViewAll(props) {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </section>
     </>
   );

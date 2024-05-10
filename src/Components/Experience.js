@@ -40,7 +40,23 @@ export default function Experience() {
                 <div className="detail_box">
                 <h1 className="title">Self Employed</h1>
                 <h4 className="secnd_title"> Full Stack Dveloper</h4>
-                <h5 className="time">2023 - Present</h5>
+                <h5 className="time">2023 - 2024</h5>
+                </div>
+          </div>
+        </div>
+        <div className="Exp_material">
+          <div className="line_item">
+            <span className="inner_line"></span>
+            <span className="circle_item"></span>
+          </div>
+          <div className="content_box">
+                <div className="arrow">
+                <span className="single_arrow"><ArrowBackIosIcon/></span>
+                </div>
+                <div className="detail_box">
+                <h1 className="title">Intern - BlueAves</h1>
+                <h4 className="secnd_title"> Full Stack Dveloper</h4>
+                <h5 className="time">2024 - Present</h5>
                 </div>
           </div>
         </div>
